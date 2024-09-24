@@ -1,6 +1,14 @@
 Este é o exemplo de um ficheiro de texto file3
 
-Este commit tem o objetivo de atualizar o file3.txt
+<h2>Bebidas</h2>
 
 
-Este exercício está englobado no âmbito da ficha 1 de Git
+<ul>
+   <li>Coffee</li>
+   <li>Tea</li>
+   <li>Milk</li>
+</ul>
+
+
+
+

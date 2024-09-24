@@ -1,5 +1,11 @@
 .bak
 file1.log
+<<<<<<< HEAD
 sds.bak.txt
 asaas.log.txt
 
+=======
+asaas.log.txt
+sds.bak.txt
+file4.txt
+>>>>>>> NovaFeature

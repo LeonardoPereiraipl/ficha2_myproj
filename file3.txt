@@ -23,4 +23,3 @@ Este é o exemplo de um ficheiro de texto file3
     <li>Tostas</li>
     <li>Sandes</li>
 </ul>
->>>>>>> NovaFeature
